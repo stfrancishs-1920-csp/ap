@@ -14,6 +14,7 @@
 * [F Block]({{ "/periods/f" | relative_url }})
 
 ***
+* [Syllabus]({{ "/syllabus" | relative_url }})
 <!---
 * [**Units**]({{ "/units" | relative_url }})
 * [Syllabus]({{ "/syllabus" | relative_url }})
