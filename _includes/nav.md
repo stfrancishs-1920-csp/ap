@@ -16,9 +16,11 @@
 
 ***
 
-* [**Units**]({{ "/units" | relative_url }})
 * [Syllabus]({{ "/syllabus" | relative_url }})
 * [Tools]({{ "/tools" | relative_url }})
 --->
 
+* [**Units**]({{ "/units" | relative_url }})
+* [Unit 0]({{ "/units/unit0" | relative_url }})
+* [Unit 1]({{ "/units/unit2" | relative_url }})
 * [Unit 2]({{ "/units/unit2" | relative_url }})
