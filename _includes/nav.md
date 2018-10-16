@@ -20,3 +20,5 @@
 * [Syllabus]({{ "/syllabus" | relative_url }})
 * [Tools]({{ "/tools" | relative_url }})
 --->
+
+* [Unit 2]({{ "/units/unit2" | relative_url }})
