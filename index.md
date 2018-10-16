@@ -11,5 +11,4 @@ Current Assignments:
   - [ISBN](https://docs.cs50.net/2018/ap/problems/isbn/isbn.html)
 <!---  - [Credit](https://docs.cs50.net/2018/ap/problems/credit/credit.html) --->
 
-Coming up:
-* [Unit 2]({{ "/units/unit2" | relative_url }})
+
