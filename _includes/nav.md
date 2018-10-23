@@ -2,7 +2,7 @@
 
 * [CS50 IDE](https://cs50.io/)
 * [CS50 Reference](https://reference.cs50.net/)
-* [Tools]({{ "/tools" | relative_url }})
+* [CS50 Tools]({{ "/tools" | relative_url }})
 
 ***
 <!---
