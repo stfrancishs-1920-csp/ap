@@ -2,7 +2,7 @@
 title: false
 ---
 
-# Mr. Chamberlain's AP Computer Science Principles Class
+# AP Computer Science Principles
 
 Current Assignments:
 <!---  - [Pennies](https://docs.cs50.net/2018/ap/problems/pennies/pennies.html) --->
