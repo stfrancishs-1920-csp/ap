@@ -12,7 +12,7 @@ Current Assignments:
   - [Me, Myself and UI](https://docs.cs50.net/2018/ap/problems/ui/ui.html)
   - [Initials](https://docs.cs50.net/2018/ap/problems/initials/less/initials.html)
   - [Fahrenheit](https://docs.cs50.net/2018/ap/problems/fahrenheit/fahrenheit.html)
-  -New [Pennies](https://docs.cs50.net/2018/ap/problems/pennies/pennies.html)
+  - New [Pennies](https://docs.cs50.net/2018/ap/problems/pennies/pennies.html)
 <!---  - [Credit](https://docs.cs50.net/2018/ap/problems/credit/credit.html) --->
 
 Thought Questions:
