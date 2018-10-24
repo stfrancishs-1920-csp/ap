@@ -19,4 +19,4 @@ Thought Questions:
   - [Loops](https://sfchmbrln.github.io/ap/units/unit1/loops)
   - [Operators](https://sfchmbrln.github.io/ap/units/unit1/operators)
   - [Command-Line Interaction](https://sfchmbrln.github.io/ap/units/unit2/command-line_interaction)
-  -New [Exit Codes](https://sfchmbrln.github.io/ap/units/unit2/exit_codes) 
+  - New [Exit Codes](https://sfchmbrln.github.io/ap/units/unit2/exit_codes) 
