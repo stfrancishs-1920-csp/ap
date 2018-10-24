@@ -11,10 +11,12 @@ Current Assignments:
   - [ISBN](https://docs.cs50.net/2018/ap/problems/isbn/isbn.html)
   - [Me, Myself and UI](https://docs.cs50.net/2018/ap/problems/ui/ui.html)
   - [Initials](https://docs.cs50.net/2018/ap/problems/initials/less/initials.html)
-  - *New* [Fahrenheit](https://docs.cs50.net/2018/ap/problems/fahrenheit/fahrenheit.html)
+  - [Fahrenheit](https://docs.cs50.net/2018/ap/problems/fahrenheit/fahrenheit.html)
+  - New [Pennies]https://docs.cs50.net/2018/ap/problems/pennies/pennies.html)
 <!---  - [Credit](https://docs.cs50.net/2018/ap/problems/credit/credit.html) --->
 
 Thought Questions:
   - [Loops](https://sfchmbrln.github.io/ap/units/unit1/loops)
   - [Operators](https://sfchmbrln.github.io/ap/units/unit1/operators)
-  - *New* [Command-Line Interaction](https://sfchmbrln.github.io/ap/units/unit2/command-line_interaction)
+  - [Command-Line Interaction](https://sfchmbrln.github.io/ap/units/unit2/command-line_interaction)
+  - New [Exit Codes](https://sfchmbrln.github.io/ap/units/unit2/exit_codes) 
