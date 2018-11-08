@@ -4,16 +4,15 @@ title: false
 
 # AP Computer Science Principles
 
-Programming Assignments:
+Recent Programming Assignments:
 <!---   --->
-  - NEW [Caeser](https://docs.cs50.net/2018/ap/problems/caesar/caesar.html)
+  - [Caeser](https://docs.cs50.net/2018/ap/problems/caesar/caesar.html)
   - [Old Friends](https://docs.cs50.net/2018/ap/problems/friends/friends.html)
   
 <!---  - [Credit](https://docs.cs50.net/2018/ap/problems/credit/credit.html) --->
 
 Recent Thought Questions: 
-  - [Libraries](https://sfchmbrln.github.io/ap/units/unit2/libraries)
-  - [Typcasting](https://sfchmbrln.github.io/ap/units/unit2/typecasting/)
+  - [Bugs and Debugging](https://sfchmbrln.github.io/ap/units/unit2/bugs_and_debugging)
 
 Programming Assignments Archive:
   - [Hello](https://docs.cs50.net/2018/ap/problems/hello/hello.html)
@@ -30,3 +29,5 @@ Thought Questions Archive:
   - [Command-Line Interaction](https://sfchmbrln.github.io/ap/units/unit2/command-line_interaction)
   - [Exit Codes](https://sfchmbrln.github.io/ap/units/unit2/exit_codes)
   - [Functions](https://sfchmbrln.github.io/ap/units/unit2/functions)
+  - [Libraries](https://sfchmbrln.github.io/ap/units/unit2/libraries)
+  - [Typcasting](https://sfchmbrln.github.io/ap/units/unit2/typecasting/)
