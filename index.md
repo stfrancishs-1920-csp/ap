@@ -8,6 +8,8 @@ Recent Programming Assignments:
 <!---   --->
   - [Caeser](https://docs.cs50.net/2018/ap/problems/caesar/caesar.html)
   - [Old Friends](https://docs.cs50.net/2018/ap/problems/friends/friends.html)
+  - Upcoming - [Crack](https://docs.cs50.net/2018/ap/problems/crack/crack.html)
+  - Upcoming - [Vigenére](https://docs.cs50.net/2018/ap/problems/vigenere/vigenere.html)
   
 <!---  - [Credit](https://docs.cs50.net/2018/ap/problems/credit/credit.html) --->
 
