@@ -9,13 +9,11 @@ Recent Programming Assignments:
   - [Caeser](https://docs.cs50.net/2018/ap/problems/caesar/caesar.html)
   - [Old Friends](https://docs.cs50.net/2018/ap/problems/friends/friends.html)
   - New - [Vigenére](https://docs.cs50.net/2018/ap/problems/vigenere/vigenere.html)
-  - Upcoming - [Crack](https://docs.cs50.net/2018/ap/problems/crack/crack.html)
 
-  
 <!---  - [Credit](https://docs.cs50.net/2018/ap/problems/credit/credit.html) --->
 
 Recent Thought Questions: 
-  - [Bugs and Debugging](https://sfchmbrln.github.io/ap/units/unit2/bugs_and_debugging)
+  - [Linear Search](https://sfchmbrln.github.io/ap/units/unit3/linear_search/)
 
 Programming Assignments Archive:
   - [Hello](https://docs.cs50.net/2018/ap/problems/hello/hello.html)
@@ -34,3 +32,4 @@ Thought Questions Archive:
   - [Functions](https://sfchmbrln.github.io/ap/units/unit2/functions)
   - [Libraries](https://sfchmbrln.github.io/ap/units/unit2/libraries)
   - [Typcasting](https://sfchmbrln.github.io/ap/units/unit2/typecasting/)
+  - [Bugs and Debugging](https://sfchmbrln.github.io/ap/units/unit2/bugs_and_debugging)
