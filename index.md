@@ -6,7 +6,7 @@ title: false
 
 Recent Programming Assignments:
 <!---   --->
-  - [Caeser](https://docs.cs50.net/2018/ap/problems/caesar/caesar.html)
+  - [Caesar](https://docs.cs50.net/2018/ap/problems/caesar/caesar.html)
   - [Old Friends](https://docs.cs50.net/2018/ap/problems/friends/friends.html)
   - New - [Vigenére](https://docs.cs50.net/2018/ap/problems/vigenere/vigenere.html)
 
