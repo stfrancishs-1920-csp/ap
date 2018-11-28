@@ -6,13 +6,12 @@ title: false
 
 Recent Programming Assignments:
 <!---   --->
-  - [Caesar](https://docs.cs50.net/2018/ap/problems/caesar/caesar.html)
-  - [Old Friends](https://docs.cs50.net/2018/ap/problems/friends/friends.html)
-  - New - [Vigenére](https://docs.cs50.net/2018/ap/problems/vigenere/vigenere.html)
+  - [Vigenére](https://docs.cs50.net/2018/ap/problems/vigenere/vigenere.html)
 
 <!---  - [Credit](https://docs.cs50.net/2018/ap/problems/credit/credit.html) --->
 
 Recent Thought Questions: 
+  - NEW - [Bubble Sort](https://sfchmbrln.github.io/ap/units/unit3/bubble_sort)
   - [Linear Search](https://sfchmbrln.github.io/ap/units/unit3/linear_search/)
 
 Programming Assignments Archive:
@@ -23,6 +22,8 @@ Programming Assignments Archive:
   - [Initials](https://docs.cs50.net/2018/ap/problems/initials/less/initials.html)
   - [Fahrenheit](https://docs.cs50.net/2018/ap/problems/fahrenheit/fahrenheit.html)
   - [Pennies](https://docs.cs50.net/2018/ap/problems/pennies/pennies.html)
+  - [Caesar](https://docs.cs50.net/2018/ap/problems/caesar/caesar.html)
+  - [Old Friends](https://docs.cs50.net/2018/ap/problems/friends/friends.html)
 
 Thought Questions Archive:
   - [Loops](https://sfchmbrln.github.io/ap/units/unit1/loops)
