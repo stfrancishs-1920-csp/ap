@@ -6,7 +6,7 @@ title: false
 
 Recent Programming Assignments:
 <!---   --->
-  - READ [Sort Race](https://docs.cs50.net/2018/ap/problems/race/race.html)
+  - REVIEW [Sort Race](https://docs.cs50.net/2018/ap/problems/race/race.html)
   - [Vigenére](https://docs.cs50.net/2018/ap/problems/vigenere/vigenere.html)
 
 <!---  - [Credit](https://docs.cs50.net/2018/ap/problems/credit/credit.html) --->
