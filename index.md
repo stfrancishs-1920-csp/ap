@@ -6,12 +6,15 @@ title: false
 
 Recent Programming Assignments:
 <!---   --->
+  - READ [Sort Race](https://docs.cs50.net/2018/ap/problems/race/race.html)
   - [Vigenére](https://docs.cs50.net/2018/ap/problems/vigenere/vigenere.html)
 
 <!---  - [Credit](https://docs.cs50.net/2018/ap/problems/credit/credit.html) --->
 
-Recent Thought Questions: 
-  - NEW - [Bubble Sort](https://sfchmbrln.github.io/ap/units/unit3/bubble_sort)
+Recent Thought Questions:
+  - NEW - [Insertion Sort](https://sfchmbrln.github.io/ap/units/unit3/insertion_sort)
+  - NEW - [Selection Sort](https://sfchmbrln.github.io/ap/units/unit3/selection_sort)
+  - [Bubble Sort](https://sfchmbrln.github.io/ap/units/unit3/bubble_sort)
   - [Linear Search](https://sfchmbrln.github.io/ap/units/unit3/linear_search/)
 
 Programming Assignments Archive:
