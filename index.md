@@ -6,6 +6,7 @@ title: false
 
 Writing Assignment
   - [Simulate!](https://docs.cs50.net/2018/ap/problems/simulate/simulate.html)<br>
+  Include 3 images, at least one chart showing numbers involved in the simulation<br>
   SUBMIT TO POWERSCHOOL!<br>
   Due at end of class:<br>
     C Block: Thursday, Dec 13, 2018<br>
