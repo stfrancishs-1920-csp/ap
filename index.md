@@ -19,7 +19,7 @@ Recent Programming Assignments:
 <!---  - [Credit](https://docs.cs50.net/2018/ap/problems/credit/credit.html) --->
 
 Recent Thought Questions:
-  - NEW - [Models and Simulationsh](https://sfchmbrln.github.io/ap/units/unit3/models_and_simulations/)
+  - NEW - [Models and Simulations](https://sfchmbrln.github.io/ap/units/unit3/models_and_simulations/)
   - NEW - [Binary Search](https://sfchmbrln.github.io/ap/units/unit3/insertion_sort)
   - [Insertion Sort](https://sfchmbrln.github.io/ap/units/unit3/insertion_sort)
   - [Selection Sort](https://sfchmbrln.github.io/ap/units/unit3/selection_sort)
