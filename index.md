@@ -4,18 +4,26 @@ title: false
 
 # AP Computer Science Principles
 
+Writing Assignment
+  - [Simulate!](https://docs.cs50.net/2018/ap/problems/simulate/simulate.html)<br>
+  SUBMIT TO POWERSCHOOL!<br>
+  Due at end of class:<br>
+    C Block: Thursday, Dec 13, 2018<br>
+    F Block: Friday, Dec. 14, 2018
+
 Recent Programming Assignments:
 <!---   --->
-  - REVIEW [Sort Race](https://docs.cs50.net/2018/ap/problems/race/race.html)
+
   - [Vigenére](https://docs.cs50.net/2018/ap/problems/vigenere/vigenere.html)
 
 <!---  - [Credit](https://docs.cs50.net/2018/ap/problems/credit/credit.html) --->
 
 Recent Thought Questions:
-  - NEW - [Insertion Sort](https://sfchmbrln.github.io/ap/units/unit3/insertion_sort)
-  - NEW - [Selection Sort](https://sfchmbrln.github.io/ap/units/unit3/selection_sort)
-  - [Bubble Sort](https://sfchmbrln.github.io/ap/units/unit3/bubble_sort)
-  - [Linear Search](https://sfchmbrln.github.io/ap/units/unit3/linear_search/)
+  - NEW - [Models and Simulationsh](https://sfchmbrln.github.io/ap/units/unit3/models_and_simulations/)
+  - NEW - [Binary Search](https://sfchmbrln.github.io/ap/units/unit3/insertion_sort)
+  - [Insertion Sort](https://sfchmbrln.github.io/ap/units/unit3/insertion_sort)
+  - [Selection Sort](https://sfchmbrln.github.io/ap/units/unit3/selection_sort)
+
 
 Programming Assignments Archive:
   - [Hello](https://docs.cs50.net/2018/ap/problems/hello/hello.html)
@@ -27,6 +35,7 @@ Programming Assignments Archive:
   - [Pennies](https://docs.cs50.net/2018/ap/problems/pennies/pennies.html)
   - [Caesar](https://docs.cs50.net/2018/ap/problems/caesar/caesar.html)
   - [Old Friends](https://docs.cs50.net/2018/ap/problems/friends/friends.html)
+  - [Sort Race](https://docs.cs50.net/2018/ap/problems/race/race.html)
 
 Thought Questions Archive:
   - [Loops](https://sfchmbrln.github.io/ap/units/unit1/loops)
@@ -37,3 +46,5 @@ Thought Questions Archive:
   - [Libraries](https://sfchmbrln.github.io/ap/units/unit2/libraries)
   - [Typcasting](https://sfchmbrln.github.io/ap/units/unit2/typecasting/)
   - [Bugs and Debugging](https://sfchmbrln.github.io/ap/units/unit2/bugs_and_debugging)
+  - [Bubble Sort](https://sfchmbrln.github.io/ap/units/unit3/bubble_sort)
+  - [Linear Search](https://sfchmbrln.github.io/ap/units/unit3/linear_search/)
