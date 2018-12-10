@@ -6,7 +6,7 @@ title: false
 
 Writing Assignment
   - [Simulate!](https://docs.cs50.net/2018/ap/problems/simulate/simulate.html)<br>
-  Include 3 images, at least one chart showing numbers involved in the simulation<br>
+  Include at least 2 images and at least one chart showing numbers involved in the simulation<br>
   SUBMIT TO POWERSCHOOL!<br>
   Due at end of class:<br>
     C Block: Thursday, Dec 13, 2018<br>
@@ -14,7 +14,6 @@ Writing Assignment
 
 Recent Programming Assignments:
 <!---   --->
-
   - [Vigenére](https://docs.cs50.net/2018/ap/problems/vigenere/vigenere.html)
 
 <!---  - [Credit](https://docs.cs50.net/2018/ap/problems/credit/credit.html) --->
