@@ -20,7 +20,7 @@ Recent Programming Assignments:
 
 Recent Thought Questions:
   - NEW - [Models and Simulations](https://sfchmbrln.github.io/ap/units/unit3/models_and_simulations/)
-  - NEW - [Binary Search](https://sfchmbrln.github.io/ap/units/unit3/binary_search
+  - NEW - [Binary Search](https://sfchmbrln.github.io/ap/units/unit3/binary_search)
   - [Insertion Sort](https://sfchmbrln.github.io/ap/units/unit3/insertion_sort)
   - [Selection Sort](https://sfchmbrln.github.io/ap/units/unit3/selection_sort)
 
