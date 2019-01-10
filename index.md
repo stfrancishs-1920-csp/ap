@@ -10,7 +10,7 @@ Recent Programming Assignments:
 <!---  - [Credit](https://docs.cs50.net/2018/ap/problems/credit/credit.html) --->
 
 Recent Thought Questions:
-  - [Computational Complexity](https://sfchmbrln.github.io/ap/units/unit3/computational_complexity/)
+  - [Computational Complexity](https://sfchmbrln.github.io/ap/units/unit3/computational_complexity/) Be prepared with questions.
 
 
 Programming Assignments Archive:
