@@ -4,25 +4,12 @@ title: false
 
 # AP Computer Science Principles
 
-Writing Assignment
-  - [Simulate!](https://docs.cs50.net/2018/ap/problems/simulate/simulate.html)<br>
-  Include at least 2 images and at least one chart showing numbers involved in the simulation<br>
-  SUBMIT TO POWERSCHOOL!<br>
-  Due at end of class:<br>
-    C Block: Thursday, Dec 13, 2018<br>
-    F Block: Friday, Dec. 14, 2018
-
 Recent Programming Assignments:
-<!---   --->
-  - [Vigenére](https://docs.cs50.net/2018/ap/problems/vigenere/vigenere.html)
 
 <!---  - [Credit](https://docs.cs50.net/2018/ap/problems/credit/credit.html) --->
 
 Recent Thought Questions:
-  - NEW - [Models and Simulations](https://sfchmbrln.github.io/ap/units/unit3/models_and_simulations/)
-  - NEW - [Binary Search](https://sfchmbrln.github.io/ap/units/unit3/binary_search)
-  - [Insertion Sort](https://sfchmbrln.github.io/ap/units/unit3/insertion_sort)
-  - [Selection Sort](https://sfchmbrln.github.io/ap/units/unit3/selection_sort)
+  - [Computational Complexity](https://sfchmbrln.github.io/ap/units/unit3/computational_complexity/)
 
 
 Programming Assignments Archive:
@@ -38,6 +25,11 @@ Programming Assignments Archive:
   - [Sort Race](https://docs.cs50.net/2018/ap/problems/race/race.html)
 
 Thought Questions Archive:
+  - [Simulate!](https://docs.cs50.net/2018/ap/problems/simulate/simulate.html)
+  - [Models and Simulations](https://sfchmbrln.github.io/ap/units/unit3/models_and_simulations/)
+  - [Binary Search](https://sfchmbrln.github.io/ap/units/unit3/binary_search)
+  - [Insertion Sort](https://sfchmbrln.github.io/ap/units/unit3/insertion_sort)
+  - [Selection Sort](https://sfchmbrln.github.io/ap/units/unit3/selection_sort)
   - [Loops](https://sfchmbrln.github.io/ap/units/unit1/loops)
   - [Operators](https://sfchmbrln.github.io/ap/units/unit1/operators)
   - [Command-Line Interaction](https://sfchmbrln.github.io/ap/units/unit2/command-line_interaction)
