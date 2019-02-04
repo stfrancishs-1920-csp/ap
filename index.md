@@ -4,13 +4,14 @@ title: false
 
 # AP Computer Science Principles
 
-Recent Programming Assignments:
-  - <b>Review</b> - [Sort Race](https://docs.cs50.net/2018/ap/problems/race/race.html)
+<!--- Recent Programming Assignments:
+  - <b>Review</b> - [Sort Race](https://docs.cs50.net/2018/ap/problems/race/race.html) --->
 
 <!---  - [Credit](https://docs.cs50.net/2018/ap/problems/credit/credit.html) --->
 
 Recent Thought Questions:
-  - [Computational Complexity](https://sfchmbrln.github.io/ap/units/unit3/computational_complexity/) Be prepared with questions.
+  - [Cybersecurity](https://sfchmbrln.github.io/ap/units/unit5/cybersecurity/)
+  (Read the three articles in the questions to answer them fully)
 
 
 Programming Assignments Archive:
@@ -26,6 +27,7 @@ Programming Assignments Archive:
   - [Sort Race](https://docs.cs50.net/2018/ap/problems/race/race.html)
 
 Thought Questions Archive:
+  - [Computational Complexity](https://sfchmbrln.github.io/ap/units/unit3/computational_complexity/)
   - [Simulate!](https://docs.cs50.net/2018/ap/problems/simulate/simulate.html)
   - [Models and Simulations](https://sfchmbrln.github.io/ap/units/unit3/models_and_simulations/)
   - [Binary Search](https://sfchmbrln.github.io/ap/units/unit3/binary_search)
