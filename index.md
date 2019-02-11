@@ -4,8 +4,9 @@ title: false
 
 # AP Computer Science Principles
 
-<!--- Recent Programming Assignments:
-  - <b>Review</b> - [Sort Race](https://docs.cs50.net/2018/ap/problems/race/race.html) --->
+Recent Programming Assignments:
+  - [Similarities](https://docs.cs50.net/2018/ap/problems/similarities/less/similarities.html)
+  - [Sentimental](https://docs.cs50.net/2018/ap/problems/sentimental/sentimental.html)
 
 <!---  - [Credit](https://docs.cs50.net/2018/ap/problems/credit/credit.html) --->
 
