@@ -8,8 +8,6 @@ Recent Programming Assignments:
   - [Similarities](https://docs.cs50.net/2018/ap/problems/similarities/less/similarities.html)
   - [Sentimental](https://docs.cs50.net/2018/ap/problems/sentimental/sentimental.html)
 
-<!---  - [Credit](https://docs.cs50.net/2018/ap/problems/credit/credit.html) --->
-
 Recent Thought Questions:
   - [Cybersecurity](https://sfchmbrln.github.io/ap/units/unit5/cybersecurity/)
   (Read the three articles in the questions to answer them fully)
