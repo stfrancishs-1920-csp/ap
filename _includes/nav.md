@@ -5,21 +5,6 @@
 * [CS50 Tools]({{ "/tools" | relative_url }})
 
 ***
-<!---
-* [Status Page](https://cs50.statuspage.io/)
-* [Style Guide](https://cs50.readthedocs.io/style/c/)
-
-
-***
-
-* [C Block]({{ "/periods/c" | relative_url }})
-* [F Block]({{ "/periods/f" | relative_url }})
-
-***
-
-* [Syllabus]({{ "/syllabus" | relative_url }})
-
---->
 
 * [**Units**]({{ "/units" | relative_url }})
 * [Unit 0]({{ "/units/unit0" | relative_url }})
